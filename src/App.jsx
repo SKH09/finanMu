@@ -55,7 +55,7 @@ function App() {
             </Box>
           </Box>
           {/* Minimize */}
-          <Box className="transition duration-500 ease-in-out flex items-center gap-3 py-2 pl-6 cursor-pointer rounded-r-md pt-[540px] font-bold text-xs hover:bg-[#f8f5f0] hover:text-[#201f24]">
+          <Box className="transition duration-500 ease-in-out flex items-center gap-3 py-2 pl-6 cursor-pointer rounded-r-md pt-[540px] font-bold text-xs">
             <span>
               <WestIcon sx={{ color: orange[200] }} />
             </span>
